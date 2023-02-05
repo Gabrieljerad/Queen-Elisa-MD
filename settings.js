@@ -32,14 +32,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['254114035678'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['254114035678'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['254114035678'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'Gabby bot' // Your name ඔබේ නම 
+global.botnma = 'Gabby md // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'Gabby' //ownernama,ownername
+global.packname = 'Gabby Sticker' // Sticker package name 
+global.author = 'Gabby' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
@@ -63,13 +63,13 @@ global.sendgoodbye = `remove`
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
 global.mess = {
     success: '✅ Done!',
-    admin: 'you must be admin to use this cmd!',
-    botAdmin: 'Bot must be admin neh!',
-    owner: 'This cmd is for Elisa bot owner only',
+    admin: 'wewe si admin chillax!',
+    botAdmin: 'hadi niwe admin neh!',
+    owner: 'This cmd is for Gabby owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'Wait Elisa bot processing ',
+    wait: 'chillax kiasi ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
